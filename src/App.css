@@ -1,0 +1,20 @@
+.accordian{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+}
+.accor-content {
+  border: 1px solid gray;
+  margin-bottom: 5px;
+  padding: 10px;
+  background: #ffdb72;
+  cursor: pointer;
+  width: 600px;
+}
+.content-details{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
